@@ -4,10 +4,10 @@
 ## Objectives
 Initially display a menu that allows to select which of the different functionalities implemented in the application will be accessed and which will be the following:
 
-	Inform about which is/are the MAC of the network adapter devices installed in the system and store it in a file localinfo.txt.
-	Display the complete network configuration of the local machine for the different adapters and store it in the above .txt file.
-	Display the information related to a network adapter from those stored in the above file chosen by the user.
-	Display the IP of a set of web pages found in a .txt file.
+1. Inform about which is/are the MAC of the network adapter devices installed in the system and store it in a file localinfo.txt.
+2. Display the complete network configuration of the local machine for the different adapters and store it in the above .txt file.
+3. Display the information related to a network adapter from those stored in the above file chosen by the user.
+4. Display the IP of a set of web pages found in a .txt file.
 
 ## Route
 
